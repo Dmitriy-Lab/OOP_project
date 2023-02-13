@@ -1,4 +1,4 @@
-from FinalProject.Menu import calc_menu
+from Menu import calc_menu
 def Main():
     x = calc_menu
     print(x)
